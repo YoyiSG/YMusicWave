@@ -11,4 +11,4 @@ pip install opencv-python librosa numpy streamlit "moviepy<2" packaging
 
 streamlit run main.py
 ```
-![Example](demo.png)
+![Example](demo1.png)
